@@ -1,6 +1,6 @@
 # This is a challenge from Frontend Mentor to build out a pricing component that is responsive.
 
- The original challenge can be found here https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8
+ The original challenge can be found here[frontendmentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8)
 
 The pricing component has the following features:
 
